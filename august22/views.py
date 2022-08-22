@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def august(request):
-    return HttpResponse('<h1> This is models study with direct url from project-August22 </h1>')
+    return HttpResponse('<h1> August-22 app </h1>')
